@@ -1,0 +1,501 @@
+Date,Category,Amount,Payment_Mode,Location
+01-01-2025,Education,6599,Card,Kukatpally
+01-01-2025,Food,201,Cash,Hyderabad
+01-01-2025,Health,1583,Cash,Banjara Hills
+02-01-2025,Food,2710,Cash,Secunderabad
+02-01-2025,Education,5639,UPI,Ameerpet
+02-01-2025,Transport,4888,Cash,Kukatpally
+03-01-2025,Health,4591,Netbanking,Banjara Hills
+03-01-2025,Entertainment,2734,Netbanking,Hyderabad
+03-01-2025,Entertainment,5796,UPI,Secunderabad
+04-01-2025,Shopping,2701,Cash,Hyderabad
+04-01-2025,Education,4031,UPI,Secunderabad
+04-01-2025,Shopping,7726,Cash,Hyderabad
+05-01-2025,Food,3115,Cash,Banjara Hills
+05-01-2025,Entertainment,7149,Cash,Banjara Hills
+06-01-2025,Shopping,7702,Netbanking,Ameerpet
+06-01-2025,Entertainment,5628,Netbanking,Kukatpally
+06-01-2025,Entertainment,5837,UPI,Hyderabad
+07-01-2025,Food,5430,Netbanking,Hyderabad
+07-01-2025,Education,3153,Cash,Kukatpally
+07-01-2025,Education,4811,Netbanking,Secunderabad
+08-01-2025,Entertainment,6061,UPI,Kukatpally
+08-01-2025,Shopping,1854,Card,Ameerpet
+08-01-2025,Education,3014,Netbanking,Ameerpet
+09-01-2025,Transport,5726,Card,Secunderabad
+09-01-2025,Education,1988,Card,Secunderabad
+10-01-2025,Health,1584,Netbanking,Hyderabad
+10-01-2025,Entertainment,5592,Netbanking,Banjara Hills
+10-01-2025,Bills,1305,UPI,Secunderabad
+11-01-2025,Shopping,2149,UPI,Ameerpet
+11-01-2025,Education,7393,UPI,Ameerpet
+11-01-2025,Health,4495,Card,Banjara Hills
+12-01-2025,Bills,3072,Netbanking,Ameerpet
+12-01-2025,Health,5278,Netbanking,Hyderabad
+12-01-2025,Entertainment,6476,Cash,Banjara Hills
+13-01-2025,Transport,1984,Cash,Ameerpet
+13-01-2025,Bills,1577,Card,Secunderabad
+13-01-2025,Entertainment,1697,Card,Banjara Hills
+14-01-2025,Health,5341,Card,Secunderabad
+14-01-2025,Education,4942,Netbanking,Kukatpally
+15-01-2025,Transport,4556,Card,Ameerpet
+15-01-2025,Food,7159,Card,Banjara Hills
+15-01-2025,Food,5565,Cash,Kukatpally
+16-01-2025,Education,3620,Netbanking,Banjara Hills
+16-01-2025,Entertainment,1709,Card,Banjara Hills
+16-01-2025,Education,1180,UPI,Hyderabad
+17-01-2025,Food,5179,Card,Hyderabad
+17-01-2025,Entertainment,2881,Netbanking,Hyderabad
+17-01-2025,Entertainment,7457,Netbanking,Kukatpally
+18-01-2025,Transport,1705,Card,Banjara Hills
+18-01-2025,Food,7725,Card,Ameerpet
+19-01-2025,Transport,6112,Netbanking,Secunderabad
+19-01-2025,Education,4496,UPI,Kukatpally
+19-01-2025,Entertainment,2664,Card,Kukatpally
+20-01-2025,Food,1174,Netbanking,Secunderabad
+20-01-2025,Education,3150,UPI,Hyderabad
+20-01-2025,Transport,7569,Card,Ameerpet
+21-01-2025,Education,7177,Card,Kukatpally
+21-01-2025,Education,1732,Cash,Banjara Hills
+21-01-2025,Education,3806,Card,Ameerpet
+22-01-2025,Education,7635,Card,Kukatpally
+22-01-2025,Education,410,Cash,Ameerpet
+23-01-2025,Food,6735,Netbanking,Banjara Hills
+23-01-2025,Transport,3361,Card,Banjara Hills
+23-01-2025,Shopping,579,UPI,Secunderabad
+24-01-2025,Health,3561,Cash,Kukatpally
+24-01-2025,Bills,7296,UPI,Banjara Hills
+24-01-2025,Education,5509,Card,Hyderabad
+25-01-2025,Transport,5604,UPI,Banjara Hills
+25-01-2025,Food,7152,UPI,Hyderabad
+25-01-2025,Health,7716,UPI,Hyderabad
+26-01-2025,Entertainment,5889,UPI,Banjara Hills
+26-01-2025,Entertainment,4346,Netbanking,Ameerpet
+26-01-2025,Education,1013,Cash,Kukatpally
+27-01-2025,Education,2891,Cash,Banjara Hills
+27-01-2025,Entertainment,5682,Cash,Hyderabad
+28-01-2025,Shopping,2615,Netbanking,Kukatpally
+28-01-2025,Entertainment,532,Netbanking,Hyderabad
+28-01-2025,Entertainment,2063,Cash,Hyderabad
+29-01-2025,Education,4441,UPI,Banjara Hills
+29-01-2025,Shopping,265,Cash,Ameerpet
+29-01-2025,Food,4288,UPI,Banjara Hills
+30-01-2025,Food,2160,Cash,Banjara Hills
+30-01-2025,Shopping,7486,UPI,Hyderabad
+30-01-2025,Food,4579,UPI,Banjara Hills
+31-01-2025,Transport,5306,Netbanking,Secunderabad
+31-01-2025,Bills,1725,UPI,Secunderabad
+01-02-2025,Health,5118,UPI,Kukatpally
+01-02-2025,Education,7642,Cash,Banjara Hills
+01-02-2025,Food,3218,Cash,Secunderabad
+02-02-2025,Shopping,6560,Cash,Ameerpet
+02-02-2025,Bills,5164,Cash,Kukatpally
+02-02-2025,Shopping,5853,Card,Hyderabad
+03-02-2025,Education,3201,Netbanking,Hyderabad
+03-02-2025,Education,213,Card,Ameerpet
+03-02-2025,Health,1437,Card,Hyderabad
+04-02-2025,Education,4046,UPI,Kukatpally
+04-02-2025,Education,846,Netbanking,Secunderabad
+04-02-2025,Shopping,5174,UPI,Banjara Hills
+05-02-2025,Transport,894,UPI,Hyderabad
+05-02-2025,Shopping,3965,Netbanking,Ameerpet
+06-02-2025,Bills,7588,Cash,Hyderabad
+06-02-2025,Shopping,7777,Card,Banjara Hills
+06-02-2025,Health,2004,Card,Secunderabad
+07-02-2025,Education,416,Netbanking,Ameerpet
+07-02-2025,Food,577,Netbanking,Ameerpet
+07-02-2025,Bills,6816,UPI,Hyderabad
+08-02-2025,Bills,2063,UPI,Banjara Hills
+08-02-2025,Shopping,253,Card,Ameerpet
+08-02-2025,Transport,3520,UPI,Banjara Hills
+09-02-2025,Bills,3465,UPI,Hyderabad
+09-02-2025,Entertainment,5347,UPI,Kukatpally
+10-02-2025,Bills,2088,UPI,Kukatpally
+10-02-2025,Entertainment,6176,UPI,Hyderabad
+10-02-2025,Shopping,5512,Netbanking,Hyderabad
+11-02-2025,Shopping,6961,Card,Hyderabad
+11-02-2025,Education,6368,Cash,Kukatpally
+11-02-2025,Shopping,7086,UPI,Banjara Hills
+12-02-2025,Entertainment,370,Netbanking,Secunderabad
+12-02-2025,Bills,6107,Netbanking,Secunderabad
+12-02-2025,Education,5528,UPI,Ameerpet
+13-02-2025,Food,4356,Card,Banjara Hills
+13-02-2025,Transport,6382,Card,Kukatpally
+14-02-2025,Health,1727,Card,Secunderabad
+14-02-2025,Health,3367,Cash,Secunderabad
+14-02-2025,Education,7409,Netbanking,Secunderabad
+15-02-2025,Health,753,Cash,Ameerpet
+15-02-2025,Bills,1810,UPI,Hyderabad
+15-02-2025,Education,6085,Card,Ameerpet
+16-02-2025,Health,1392,UPI,Ameerpet
+16-02-2025,Education,2251,Cash,Secunderabad
+16-02-2025,Transport,2809,Netbanking,Banjara Hills
+17-02-2025,Food,1833,Card,Banjara Hills
+17-02-2025,Health,5818,Netbanking,Ameerpet
+17-02-2025,Transport,2427,UPI,Secunderabad
+18-02-2025,Education,4765,Cash,Kukatpally
+18-02-2025,Food,284,Cash,Hyderabad
+19-02-2025,Food,271,Cash,Banjara Hills
+19-02-2025,Education,2452,Netbanking,Kukatpally
+19-02-2025,Entertainment,4484,Netbanking,Kukatpally
+20-02-2025,Bills,1072,UPI,Ameerpet
+20-02-2025,Education,5755,UPI,Banjara Hills
+20-02-2025,Bills,4832,Cash,Ameerpet
+21-02-2025,Entertainment,734,Netbanking,Banjara Hills
+21-02-2025,Health,2376,Cash,Kukatpally
+21-02-2025,Transport,4855,Cash,Banjara Hills
+22-02-2025,Shopping,784,UPI,Ameerpet
+22-02-2025,Food,1558,UPI,Kukatpally
+23-02-2025,Education,5566,Cash,Hyderabad
+23-02-2025,Bills,1084,UPI,Secunderabad
+23-02-2025,Health,7596,Card,Secunderabad
+24-02-2025,Entertainment,6756,Card,Ameerpet
+24-02-2025,Education,231,UPI,Kukatpally
+24-02-2025,Health,7249,Cash,Banjara Hills
+25-02-2025,Education,2581,Card,Secunderabad
+25-02-2025,Transport,319,Cash,Kukatpally
+25-02-2025,Bills,3073,UPI,Ameerpet
+26-02-2025,Health,4649,Netbanking,Ameerpet
+26-02-2025,Transport,6327,Netbanking,Hyderabad
+26-02-2025,Health,1565,Cash,Ameerpet
+27-02-2025,Food,544,Card,Hyderabad
+27-02-2025,Food,1658,Netbanking,Hyderabad
+28-02-2025,Entertainment,3590,Netbanking,Kukatpally
+28-02-2025,Food,3958,Netbanking,Ameerpet
+28-02-2025,Education,1315,Netbanking,Banjara Hills
+01-03-2025,Entertainment,5929,Netbanking,Ameerpet
+01-03-2025,Bills,6627,Netbanking,Ameerpet
+01-03-2025,Bills,5063,Netbanking,Kukatpally
+02-03-2025,Bills,5472,Cash,Ameerpet
+02-03-2025,Shopping,2696,UPI,Secunderabad
+02-03-2025,Entertainment,3388,UPI,Kukatpally
+03-03-2025,Entertainment,3119,UPI,Secunderabad
+03-03-2025,Education,2813,Card,Ameerpet
+04-03-2025,Food,1795,UPI,Secunderabad
+04-03-2025,Food,6649,Netbanking,Kukatpally
+04-03-2025,Bills,3820,Cash,Secunderabad
+05-03-2025,Health,5169,Cash,Ameerpet
+05-03-2025,Bills,6020,Netbanking,Kukatpally
+05-03-2025,Transport,5455,Card,Ameerpet
+06-03-2025,Transport,2760,Netbanking,Kukatpally
+06-03-2025,Entertainment,5344,Cash,Hyderabad
+06-03-2025,Bills,2845,Cash,Ameerpet
+07-03-2025,Shopping,7888,Cash,Hyderabad
+07-03-2025,Health,5706,Netbanking,Hyderabad
+08-03-2025,Entertainment,3765,UPI,Banjara Hills
+08-03-2025,Health,2807,Card,Ameerpet
+08-03-2025,Transport,1815,Netbanking,Ameerpet
+09-03-2025,Shopping,4236,Card,Banjara Hills
+09-03-2025,Transport,5012,Netbanking,Kukatpally
+09-03-2025,Shopping,3890,Card,Kukatpally
+10-03-2025,Shopping,2607,UPI,Secunderabad
+10-03-2025,Entertainment,6980,Card,Banjara Hills
+10-03-2025,Shopping,1139,Card,Secunderabad
+11-03-2025,Bills,6789,Cash,Ameerpet
+11-03-2025,Bills,7304,UPI,Banjara Hills
+11-03-2025,Entertainment,5328,Netbanking,Banjara Hills
+12-03-2025,Food,3709,UPI,Banjara Hills
+12-03-2025,Education,2844,Cash,Banjara Hills
+13-03-2025,Entertainment,4299,Netbanking,Ameerpet
+13-03-2025,Shopping,7339,Netbanking,Banjara Hills
+13-03-2025,Education,5532,Cash,Ameerpet
+14-03-2025,Education,1293,Cash,Secunderabad
+14-03-2025,Entertainment,3624,UPI,Secunderabad
+14-03-2025,Shopping,3915,Cash,Banjara Hills
+15-03-2025,Health,6116,UPI,Kukatpally
+15-03-2025,Health,3069,UPI,Ameerpet
+15-03-2025,Transport,7015,Cash,Kukatpally
+16-03-2025,Transport,1495,Netbanking,Kukatpally
+16-03-2025,Food,3407,Cash,Ameerpet
+17-03-2025,Entertainment,7170,Cash,Kukatpally
+17-03-2025,Education,5602,Cash,Kukatpally
+17-03-2025,Health,1684,Card,Kukatpally
+18-03-2025,Transport,925,Cash,Ameerpet
+18-03-2025,Education,423,Netbanking,Banjara Hills
+18-03-2025,Entertainment,516,Card,Ameerpet
+19-03-2025,Transport,5863,Netbanking,Secunderabad
+19-03-2025,Transport,379,Cash,Secunderabad
+19-03-2025,Entertainment,7241,Netbanking,Banjara Hills
+20-03-2025,Shopping,3089,Netbanking,Ameerpet
+20-03-2025,Transport,6822,Netbanking,Ameerpet
+20-03-2025,Transport,4006,Cash,Banjara Hills
+21-03-2025,Education,7905,Card,Secunderabad
+21-03-2025,Education,3834,Cash,Hyderabad
+22-03-2025,Transport,5166,Card,Ameerpet
+22-03-2025,Transport,4929,Card,Hyderabad
+22-03-2025,Health,6250,Card,Secunderabad
+23-03-2025,Health,4211,Cash,Hyderabad
+23-03-2025,Shopping,3924,Cash,Hyderabad
+23-03-2025,Health,4763,Card,Ameerpet
+24-03-2025,Education,3525,Netbanking,Hyderabad
+24-03-2025,Bills,1757,Card,Secunderabad
+24-03-2025,Transport,3785,UPI,Kukatpally
+25-03-2025,Bills,4824,UPI,Ameerpet
+25-03-2025,Entertainment,1067,Card,Kukatpally
+26-03-2025,Shopping,2530,Cash,Banjara Hills
+26-03-2025,Bills,4395,Netbanking,Hyderabad
+26-03-2025,Bills,5923,UPI,Secunderabad
+27-03-2025,Entertainment,7650,Netbanking,Ameerpet
+27-03-2025,Education,6250,UPI,Kukatpally
+27-03-2025,Entertainment,756,UPI,Ameerpet
+28-03-2025,Bills,3641,UPI,Banjara Hills
+28-03-2025,Entertainment,651,Card,Hyderabad
+28-03-2025,Bills,4283,UPI,Kukatpally
+29-03-2025,Education,1981,Cash,Ameerpet
+29-03-2025,Education,3247,Netbanking,Hyderabad
+30-03-2025,Bills,3549,Netbanking,Secunderabad
+30-03-2025,Shopping,332,UPI,Banjara Hills
+30-03-2025,Entertainment,2006,Cash,Banjara Hills
+31-03-2025,Shopping,2570,Netbanking,Banjara Hills
+31-03-2025,Shopping,6018,Netbanking,Ameerpet
+31-03-2025,Entertainment,6280,Netbanking,Secunderabad
+01-04-2025,Health,6526,Card,Ameerpet
+01-04-2025,Education,1996,Cash,Secunderabad
+01-04-2025,Entertainment,6457,Netbanking,Secunderabad
+02-04-2025,Health,1192,Netbanking,Hyderabad
+02-04-2025,Health,3568,Netbanking,Banjara Hills
+02-04-2025,Education,7082,Card,Kukatpally
+03-04-2025,Entertainment,1900,UPI,Banjara Hills
+03-04-2025,Food,6561,UPI,Kukatpally
+04-04-2025,Transport,3274,Netbanking,Banjara Hills
+04-04-2025,Transport,2376,Netbanking,Banjara Hills
+04-04-2025,Food,2964,UPI,Secunderabad
+05-04-2025,Bills,3069,Card,Ameerpet
+05-04-2025,Entertainment,7248,UPI,Kukatpally
+05-04-2025,Transport,867,UPI,Hyderabad
+06-04-2025,Health,4112,Card,Hyderabad
+06-04-2025,Education,2882,Card,Banjara Hills
+06-04-2025,Education,3252,Netbanking,Banjara Hills
+07-04-2025,Food,3218,Netbanking,Secunderabad
+07-04-2025,Shopping,3937,Netbanking,Hyderabad
+08-04-2025,Food,5271,UPI,Banjara Hills
+08-04-2025,Transport,3734,UPI,Kukatpally
+08-04-2025,Education,2771,Cash,Ameerpet
+09-04-2025,Food,7592,UPI,Hyderabad
+09-04-2025,Entertainment,2938,Card,Banjara Hills
+09-04-2025,Entertainment,7969,Card,Secunderabad
+10-04-2025,Food,5481,Cash,Hyderabad
+10-04-2025,Transport,6748,UPI,Secunderabad
+10-04-2025,Food,6439,Cash,Hyderabad
+11-04-2025,Shopping,6996,Netbanking,Hyderabad
+11-04-2025,Bills,1881,Netbanking,Banjara Hills
+12-04-2025,Bills,1254,Netbanking,Ameerpet
+12-04-2025,Transport,980,UPI,Hyderabad
+12-04-2025,Bills,4549,Card,Kukatpally
+13-04-2025,Shopping,363,Card,Ameerpet
+13-04-2025,Entertainment,631,Card,Kukatpally
+13-04-2025,Food,1402,Card,Kukatpally
+14-04-2025,Transport,1049,UPI,Secunderabad
+14-04-2025,Transport,3312,Cash,Kukatpally
+14-04-2025,Education,7744,Card,Secunderabad
+15-04-2025,Transport,3463,Netbanking,Secunderabad
+15-04-2025,Entertainment,4310,Cash,Hyderabad
+15-04-2025,Food,2247,Card,Secunderabad
+16-04-2025,Education,4059,Cash,Secunderabad
+16-04-2025,Health,874,Card,Secunderabad
+17-04-2025,Bills,2644,UPI,Banjara Hills
+17-04-2025,Food,7256,Card,Kukatpally
+17-04-2025,Health,255,Card,Banjara Hills
+18-04-2025,Shopping,4684,UPI,Secunderabad
+18-04-2025,Education,2338,Cash,Secunderabad
+18-04-2025,Food,6019,Card,Kukatpally
+19-04-2025,Food,5356,Cash,Banjara Hills
+19-04-2025,Shopping,6062,Cash,Secunderabad
+19-04-2025,Entertainment,979,Netbanking,Banjara Hills
+20-04-2025,Transport,7314,Cash,Ameerpet
+20-04-2025,Food,5244,UPI,Ameerpet
+21-04-2025,Food,1098,Cash,Hyderabad
+21-04-2025,Entertainment,7212,Cash,Ameerpet
+21-04-2025,Health,5122,Cash,Secunderabad
+22-04-2025,Entertainment,5840,Netbanking,Banjara Hills
+22-04-2025,Bills,4115,Card,Banjara Hills
+22-04-2025,Health,4760,Card,Banjara Hills
+23-04-2025,Bills,4680,Card,Kukatpally
+23-04-2025,Health,1892,UPI,Ameerpet
+23-04-2025,Food,1615,UPI,Banjara Hills
+24-04-2025,Food,2971,Netbanking,Banjara Hills
+24-04-2025,Bills,502,Cash,Secunderabad
+24-04-2025,Health,2025,Netbanking,Hyderabad
+25-04-2025,Entertainment,6267,Netbanking,Banjara Hills
+25-04-2025,Transport,6593,UPI,Hyderabad
+26-04-2025,Shopping,6738,UPI,Hyderabad
+26-04-2025,Shopping,6571,Cash,Banjara Hills
+26-04-2025,Food,5317,Cash,Kukatpally
+27-04-2025,Food,5968,Cash,Secunderabad
+27-04-2025,Shopping,1483,Card,Hyderabad
+27-04-2025,Health,3306,Card,Ameerpet
+28-04-2025,Health,5337,UPI,Banjara Hills
+28-04-2025,Entertainment,6709,Netbanking,Banjara Hills
+28-04-2025,Bills,3802,Cash,Ameerpet
+29-04-2025,Education,5682,UPI,Hyderabad
+29-04-2025,Health,2209,Card,Hyderabad
+30-04-2025,Shopping,6820,Cash,Ameerpet
+30-04-2025,Transport,1168,Netbanking,Banjara Hills
+30-04-2025,Food,4917,Cash,Secunderabad
+01-05-2025,Bills,6957,Cash,Kukatpally
+01-05-2025,Shopping,7068,Netbanking,Banjara Hills
+01-05-2025,Health,654,UPI,Kukatpally
+02-05-2025,Food,3486,Card,Secunderabad
+02-05-2025,Transport,3412,UPI,Kukatpally
+02-05-2025,Bills,6694,Cash,Hyderabad
+03-05-2025,Entertainment,5766,Cash,Secunderabad
+03-05-2025,Entertainment,3735,Card,Kukatpally
+04-05-2025,Shopping,3662,Card,Kukatpally
+04-05-2025,Transport,6043,UPI,Ameerpet
+04-05-2025,Transport,292,Card,Ameerpet
+05-05-2025,Transport,599,UPI,Kukatpally
+05-05-2025,Entertainment,4952,Card,Ameerpet
+05-05-2025,Education,1318,Netbanking,Secunderabad
+06-05-2025,Shopping,6780,UPI,Kukatpally
+06-05-2025,Health,4618,Netbanking,Hyderabad
+06-05-2025,Shopping,4964,Netbanking,Hyderabad
+07-05-2025,Entertainment,4223,Netbanking,Ameerpet
+07-05-2025,Entertainment,6928,UPI,Banjara Hills
+07-05-2025,Education,4260,Netbanking,Kukatpally
+08-05-2025,Food,1203,UPI,Ameerpet
+08-05-2025,Transport,6414,Cash,Ameerpet
+09-05-2025,Health,7622,Cash,Kukatpally
+09-05-2025,Bills,2724,Netbanking,Ameerpet
+09-05-2025,Transport,4964,Card,Hyderabad
+10-05-2025,Entertainment,2278,UPI,Secunderabad
+10-05-2025,Food,3394,Card,Secunderabad
+10-05-2025,Entertainment,3090,Card,Secunderabad
+11-05-2025,Education,2165,UPI,Kukatpally
+11-05-2025,Bills,6438,Cash,Kukatpally
+11-05-2025,Shopping,2151,Card,Hyderabad
+12-05-2025,Entertainment,2726,Card,Secunderabad
+12-05-2025,Transport,7236,Netbanking,Kukatpally
+13-05-2025,Transport,7062,UPI,Hyderabad
+13-05-2025,Education,1181,Netbanking,Secunderabad
+13-05-2025,Entertainment,3296,Netbanking,Banjara Hills
+14-05-2025,Education,2585,Card,Ameerpet
+14-05-2025,Shopping,7344,Card,Banjara Hills
+14-05-2025,Bills,4802,Netbanking,Kukatpally
+15-05-2025,Education,446,Card,Kukatpally
+15-05-2025,Entertainment,2948,Netbanking,Banjara Hills
+15-05-2025,Shopping,3567,UPI,Hyderabad
+16-05-2025,Health,4889,Cash,Hyderabad
+16-05-2025,Bills,3549,Card,Kukatpally
+16-05-2025,Shopping,1520,Netbanking,Secunderabad
+17-05-2025,Entertainment,1387,Cash,Hyderabad
+17-05-2025,Entertainment,5092,Netbanking,Hyderabad
+18-05-2025,Bills,1744,UPI,Banjara Hills
+18-05-2025,Food,7927,UPI,Hyderabad
+18-05-2025,Shopping,2154,Cash,Banjara Hills
+19-05-2025,Education,1467,Card,Kukatpally
+19-05-2025,Food,3738,Cash,Ameerpet
+19-05-2025,Entertainment,3576,Card,Banjara Hills
+20-05-2025,Shopping,7240,Netbanking,Banjara Hills
+20-05-2025,Food,5032,Netbanking,Hyderabad
+20-05-2025,Health,1855,Card,Banjara Hills
+21-05-2025,Shopping,4929,UPI,Banjara Hills
+21-05-2025,Shopping,3620,UPI,Banjara Hills
+22-05-2025,Shopping,6751,Card,Kukatpally
+22-05-2025,Entertainment,2263,Cash,Banjara Hills
+22-05-2025,Transport,4496,UPI,Banjara Hills
+23-05-2025,Transport,4768,Netbanking,Kukatpally
+23-05-2025,Bills,1740,Card,Kukatpally
+23-05-2025,Food,1108,Card,Hyderabad
+24-05-2025,Health,3393,Cash,Kukatpally
+24-05-2025,Bills,4462,Netbanking,Banjara Hills
+24-05-2025,Health,3724,Card,Hyderabad
+25-05-2025,Shopping,7303,UPI,Ameerpet
+25-05-2025,Education,4667,Cash,Ameerpet
+26-05-2025,Shopping,1305,Netbanking,Banjara Hills
+26-05-2025,Food,7213,Cash,Banjara Hills
+26-05-2025,Education,6045,Netbanking,Kukatpally
+27-05-2025,Transport,1970,Card,Banjara Hills
+27-05-2025,Health,2866,UPI,Ameerpet
+27-05-2025,Bills,2403,UPI,Hyderabad
+28-05-2025,Transport,7336,Netbanking,Kukatpally
+28-05-2025,Entertainment,2105,Cash,Banjara Hills
+28-05-2025,Shopping,5743,Netbanking,Hyderabad
+29-05-2025,Health,1216,Cash,Secunderabad
+29-05-2025,Shopping,3115,Card,Kukatpally
+29-05-2025,Education,1186,Cash,Hyderabad
+30-05-2025,Education,1878,Netbanking,Kukatpally
+30-05-2025,Shopping,7722,UPI,Kukatpally
+31-05-2025,Education,6668,Cash,Hyderabad
+31-05-2025,Education,4709,Cash,Hyderabad
+31-05-2025,Transport,3785,Netbanking,Secunderabad
+01-06-2025,Transport,1828,Card,Secunderabad
+01-06-2025,Health,335,Card,Ameerpet
+01-06-2025,Education,4157,Cash,Kukatpally
+02-06-2025,Education,6985,Cash,Ameerpet
+02-06-2025,Shopping,2053,Cash,Hyderabad
+02-06-2025,Education,2802,Cash,Banjara Hills
+03-06-2025,Health,846,Cash,Hyderabad
+03-06-2025,Transport,968,Netbanking,Secunderabad
+04-06-2025,Health,1120,Card,Secunderabad
+04-06-2025,Bills,6780,Card,Kukatpally
+04-06-2025,Transport,6214,Card,Secunderabad
+05-06-2025,Food,2262,UPI,Secunderabad
+05-06-2025,Education,3224,Cash,Banjara Hills
+05-06-2025,Entertainment,7190,Netbanking,Banjara Hills
+06-06-2025,Entertainment,5405,Cash,Secunderabad
+06-06-2025,Food,6834,Cash,Kukatpally
+06-06-2025,Education,5991,UPI,Ameerpet
+07-06-2025,Health,3688,Card,Banjara Hills
+07-06-2025,Education,3029,Cash,Kukatpally
+07-06-2025,Transport,1961,Netbanking,Kukatpally
+08-06-2025,Shopping,2995,Card,Kukatpally
+08-06-2025,Health,4771,Card,Secunderabad
+09-06-2025,Transport,7665,Cash,Secunderabad
+09-06-2025,Shopping,1359,Cash,Hyderabad
+09-06-2025,Shopping,488,Cash,Ameerpet
+10-06-2025,Transport,1487,Netbanking,Ameerpet
+10-06-2025,Entertainment,3306,UPI,Hyderabad
+10-06-2025,Bills,1983,UPI,Hyderabad
+11-06-2025,Shopping,7446,Card,Secunderabad
+11-06-2025,Bills,3922,Cash,Ameerpet
+11-06-2025,Education,2470,Netbanking,Hyderabad
+12-06-2025,Food,5854,Netbanking,Kukatpally
+12-06-2025,Shopping,3918,Card,Secunderabad
+13-06-2025,Transport,1868,Card,Hyderabad
+13-06-2025,Bills,5977,UPI,Secunderabad
+13-06-2025,Education,2334,Netbanking,Kukatpally
+14-06-2025,Education,502,UPI,Banjara Hills
+14-06-2025,Education,2464,Card,Secunderabad
+14-06-2025,Food,1830,Netbanking,Secunderabad
+15-06-2025,Entertainment,233,Cash,Kukatpally
+15-06-2025,Health,4339,Netbanking,Ameerpet
+15-06-2025,Food,4155,Netbanking,Kukatpally
+16-06-2025,Entertainment,7483,Netbanking,Ameerpet
+16-06-2025,Food,4999,UPI,Secunderabad
+17-06-2025,Education,6264,Netbanking,Hyderabad
+17-06-2025,Health,4684,UPI,Kukatpally
+17-06-2025,Food,7580,UPI,Kukatpally
+18-06-2025,Education,7143,Netbanking,Kukatpally
+18-06-2025,Shopping,2725,UPI,Secunderabad
+18-06-2025,Bills,2483,Card,Banjara Hills
+19-06-2025,Food,6853,Cash,Secunderabad
+19-06-2025,Shopping,3974,UPI,Kukatpally
+19-06-2025,Transport,5478,UPI,Kukatpally
+20-06-2025,Bills,5443,Card,Kukatpally
+20-06-2025,Shopping,7019,Cash,Kukatpally
+20-06-2025,Entertainment,1158,Netbanking,Secunderabad
+21-06-2025,Health,2815,Cash,Kukatpally
+21-06-2025,Food,4006,Cash,Ameerpet
+22-06-2025,Food,7284,Cash,Banjara Hills
+22-06-2025,Education,5475,UPI,Secunderabad
+22-06-2025,Bills,1121,Card,Kukatpally
+23-06-2025,Health,807,Cash,Hyderabad
+23-06-2025,Shopping,6389,Cash,Secunderabad
+23-06-2025,Bills,3338,Netbanking,Banjara Hills
+24-06-2025,Bills,1481,Netbanking,Hyderabad
+24-06-2025,Bills,3722,UPI,Hyderabad
+24-06-2025,Entertainment,6281,Netbanking,Ameerpet
+25-06-2025,Health,2986,Netbanking,Secunderabad
+25-06-2025,Bills,1192,UPI,Hyderabad
+26-06-2025,Shopping,7220,UPI,Banjara Hills
+26-06-2025,Transport,1309,Netbanking,Secunderabad
+26-06-2025,Health,927,Cash,Banjara Hills
+27-06-2025,Shopping,7593,Cash,Ameerpet
+27-06-2025,Food,6927,UPI,Secunderabad
+27-06-2025,Bills,7773,Cash,Hyderabad
+28-06-2025,Education,2477,Cash,Banjara Hills
+28-06-2025,Education,1597,UPI,Hyderabad
+28-06-2025,Shopping,4646,UPI,Ameerpet
+29-06-2025,Health,7504,UPI,Hyderabad
+29-06-2025,Health,6022,Card,Ameerpet
+30-06-2025,Health,6813,Netbanking,Ameerpet
